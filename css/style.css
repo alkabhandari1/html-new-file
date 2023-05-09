@@ -14,7 +14,7 @@ body{
 }
 
 .navber{
-    /* display: block; */
+    display: block;
     float: right;
     height: 50px;
     padding: 10px;
